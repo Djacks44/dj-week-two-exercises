@@ -1,25 +1,25 @@
 * {
  box-sizing: border-box;
 }
-    * body {
+    body {
         background-color:#f1f1f1;
     }
-    * main-header { 
+    #main-header { 
         background-color:#ddd;
         margin-bottom:30px;
         min-height: 100px;
     }
-    * wrapper-div{
+    .wrapper-div{
         width:1024px;
     }
         
-    * main-section{
+    #main-section{
         background-color:#ddd;
        float: left;
         width :60%;
         padding:30px;
     }
-    * sidebar{
+    #sidebar{
         background-color:#ddd;
         float: right;
         width:35%;
